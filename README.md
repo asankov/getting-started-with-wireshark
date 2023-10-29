@@ -6,7 +6,7 @@ My notes for the [Getting Started with Wireshark: The Ultimate Hands-on Course](
 
 1. Hands-on with Wireshark - Your First PCAP Lab
 2. Getting Help
-3. Configuring the Wireshark Interface
+3. [Configuring the Wireshark Interface](./03-configuring-the-wireshark-interface/)
 4. Filtering Traffic in Wireshark
 5. Where and How to Capture Packets
 6. The Anatomy of a Packet - How Encapsulation Works
