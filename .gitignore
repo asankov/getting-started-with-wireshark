@@ -1,0 +1,4 @@
+# I don't want to share the PCAP files, because they are part of the course
+# and I don't want to distrube them.
+# If you want them, buy the course and support the creators.
+*.pcapng
